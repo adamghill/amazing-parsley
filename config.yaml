@@ -1,0 +1,24 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Adam Hill
+    tagline: Searching for tech enlightenment.
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--XmVHq2Fc--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/104471/7608e081-23b6-45f4-8122-d5c72dc26e9a.jpeg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+disableKinds:
+  - RSS
